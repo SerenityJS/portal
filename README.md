@@ -1,4 +1,4 @@
-# Introduction
+# Portal
 The SerentityJS sample plugin provides a basic configuration for plugin usage in the software. To get started, either clone this repo or create a new repository using this template.
 
 ## Usage
